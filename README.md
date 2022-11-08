@@ -18,7 +18,7 @@ Using the Zomato food delivery app data of all Indian restaurants, I have create
         c) Feature Importance
         d) Handling missing values
         e) Feature Encoding
-        f) Aplying Random Forest, KNN, Logistic Regression, xgboost etc
+        f) Applying Random Forest, KNN, Logistic Regression, xgboost etc.
 ### Technologies
 * Python - Folium, matplotlib, seaborn, numpy, pandas, wordcloud, sklearn
 
